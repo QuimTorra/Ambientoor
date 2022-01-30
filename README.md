@@ -3,11 +3,11 @@ Ambience music and sound player.
 
 # TechStack
 > still working on this, no rushing
-## FrontEnd
+#### FrontEnd
 - SvelteKit
 - Bootstrap (for demo purposes)
 
-## BackEnd
+#### BackEnd
 - NodeJS
 - Express
 - Firebase Authentication
