@@ -25,6 +25,9 @@ Max file stack
 
 # TODO
 [] Track Component
+
 > Gets an especific audio file and plays it. Should be able to play/pause and change volume and time position.
-[] Mixer Componen
+
+[] Mixer Component
+
 > Has multiple Tracks. Should be able to play/pause all the tracks in one click. Should have a master volume knob.
