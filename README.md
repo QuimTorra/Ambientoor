@@ -30,6 +30,7 @@ You'll be able to search music by tag, name, author, and add them to your mixer 
   - [ ] Change Track Name
   - [ ] Stop Track
   - [ ] Restart Track
+  - [ ] Update Play/Pause state on song finish
 - [ ] Mixer Component
   - [x] Stop All
   - [x] Play All
