@@ -23,8 +23,6 @@ You'll be able to search music by tag, name, author, and add them to your mixer 
 # TODO
 -------- MVP ----------
 - [ ] Track Component
-<<<<<<< HEAD
-  - [x] Play/Pause
   ~~- [ ] Time Slide~~
   - [x] Volume Knob
   - [x] Delete Track
@@ -36,12 +34,3 @@ You'll be able to search music by tag, name, author, and add them to your mixer 
   - [x] Play All
   - [x] Master Volume
   - [ ] Something else xd
-=======
-  - [ ] Play/Pause
-  - [ ] Time Slide
-  - [ ] Volume Knob
-  - [ ] Delete Track
-- [ ] Mixer Component
-  - [ ] Stop All
-  - [ ] Master Volume
->>>>>>> ff2a042d5027842cd4c6186a769b2a457c8473c9
