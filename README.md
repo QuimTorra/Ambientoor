@@ -10,7 +10,6 @@ Ambience music and sound player.
 #### BackEnd
 - NodeJS
 - Express
-- Firebase Authentication
 
 # Goals
 ### Mixer
@@ -23,14 +22,16 @@ You'll be able to search music by tag, name, author, and add them to your mixer 
 
 # TODO
 -------- MVP ----------
-[ ] Track Component
-  [ ] Play/Pause
-  [ ] Time Slide
-  [ ] Volume Knob
-  [ ] Delete Track
-[ ] Mixer Component
-  [ ] Stop All
-  [ ] Master Volume
------ 2nd Release -----
-[ ] Search Page
-  [ ] 
+- [ ] Track Component
+  - [x] Play/Pause
+  ~~- [ ] Time Slide~~
+  - [x] Volume Knob
+  - [x] Delete Track
+  - [ ] Change Track Name
+  - [ ] Stop Track
+  - [ ] Restart Track
+- [ ] Mixer Component
+  - [x] Stop All
+  - [x] Play All
+  - [x] Master Volume
+  - [ ] Something else xd
