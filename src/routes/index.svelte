@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang=ts>
+  import Form from "$lib/form.svelte";
+  import Mixer from "$lib/mixer.svelte";
+</script>
+
+<div class="d-flex justify-content-center align-items-center flex-column">
+  <Form />
+  <Mixer />
+</div>

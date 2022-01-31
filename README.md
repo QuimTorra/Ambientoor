@@ -13,21 +13,24 @@ Ambience music and sound player.
 - Firebase Authentication
 
 # Goals
-## Mixer
+### Mixer
 You'll be able to play multiple sound files at the same time.
-## Search Bar
-Searching for music to add to your mixer should be simple, and give you the best results, sorted by tags.
-## User Authentication
-#### Basic member
-Stack up to 2 audio files at a time in a mixer
-#### Premium member
-Max file stack
+Can pause all tracks at once.
+Controls master volume
+
+### SearchPage
+You'll be able to search music by tag, name, author, and add them to your mixer with 1 click.
 
 # TODO
-[] Track Component
-
-> Gets an especific audio file and plays it. Should be able to play/pause and change volume and time position.
-
-[] Mixer Component
-
-> Has multiple Tracks. Should be able to play/pause all the tracks in one click. Should have a master volume knob.
+-------- MVP ----------
+[ ] Track Component
+  [ ] Play/Pause
+  [ ] Time Slide
+  [ ] Volume Knob
+  [ ] Delete Track
+[ ] Mixer Component
+  [ ] Stop All
+  [ ] Master Volume
+----- 2nd Release -----
+[ ] Search Page
+  [ ] 
