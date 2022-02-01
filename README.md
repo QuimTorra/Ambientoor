@@ -22,15 +22,19 @@ You'll be able to search music by tag, name, author, and add them to your mixer 
 
 # TODO
 -------- MVP ----------
-- [ ] Track Component
-  - [ ] ~~Time Slide~~
+- [ ] Persistent Stores !!
+- [ ] Accepting YT Links !!
+- [x] Track Component
+  - [x] Play/Pause
   - [x] Volume Knob
   - [x] Delete Track
-  - [ ] Change Track Name
-  - [ ] Stop Track
-  - [ ] Restart Track
-- [ ] Mixer Component
+  - [x] Change Track Name
+  - [x] Stop Track
+- [x] Mixer Component
+  - [x] Play/Pause All
   - [x] Stop All
-  - [x] Play All
   - [x] Master Volume
-  - [ ] Something else xd
+- [ ] Design
+  - [ ] Track Design
+  - [ ] Master Design
+  - [ ] Full Page
