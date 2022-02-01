@@ -22,8 +22,8 @@ You'll be able to search music by tag, name, author, and add them to your mixer 
 
 # TODO
 -------- MVP ----------
-- [ ] Persistent Stores !!
-- [ ] Accepting YT Links !!
+- [ ] Persistent Stores !!!
+- [ ] Accepting YT Links !!!
 - [x] Track Component
   - [x] Play/Pause
   - [x] Volume Knob
