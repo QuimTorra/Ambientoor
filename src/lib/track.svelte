@@ -187,6 +187,7 @@ import { onMount } from "svelte";
   }
   #nameInput {
     max-width: 16ch;
+    font-size: .85rem;
   }
 
   .title {

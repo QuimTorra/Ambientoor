@@ -7,13 +7,14 @@
   function handleSubmit () {
     $srcStore.push(url)
     $srcStore = $srcStore
-    if (name === ""){
+    console.log(name)
+    if (name == undefined){
       name = `Track_${$srcStore.length}`
     }
     $titleStore.push(name)
     $titleStore = $titleStore
     url = ""
-    name = "" 
+    name = undefined 
   }
 </script>
 
